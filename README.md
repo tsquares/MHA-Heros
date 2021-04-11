@@ -1,7 +1,7 @@
 # Skyrim-NPCs
 CS3200 db design final project
 
-### Contributors
+## Contributors
 * Jackie Tam - CS3200 33620 Database Design SEC 03 Spring 2021
 * Tara Tam - CS3200 33620 Database Design SEC 03 Spring 2021
 
