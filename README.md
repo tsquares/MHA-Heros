@@ -8,7 +8,7 @@ CS3200 db design final project
 ## Project Description
 INSERT HERE
 
-### UML Class Diagram
+## UML Class Diagram
 [INSERT HERE]() <--INSERT LINK
 
 ### User Data Model
