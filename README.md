@@ -1,4 +1,4 @@
-# Skyrim-NPCs
+# My Hero Academia - Heros
 CS3200 db design final project
 
 ## Contributors
