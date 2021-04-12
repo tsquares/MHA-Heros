@@ -9,7 +9,7 @@ CS3200 db design final project
 Database of users representing Heros from the manga/anime My Hero Academia. Heros may have a superpower called a Quick
 
 ### UML Class Diagram
-[UML pdf](db_design_final_project_UML.pdf)
+[UML pdf]()
 
 ### Domain Object Data Models
 DOMAIN_OBJECT_1
