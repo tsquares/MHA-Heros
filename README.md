@@ -6,7 +6,7 @@ CS3200 db design final project
 * Tara Tam - CS3200 33620 Database Design SEC 03 Spring 2021
 
 ## Project Description
-Database of users representing Heros from the manga/anime My Hero Academia. Heros may have a superpower called a Quick
+Database of users representing Heros from the manga/anime My Hero Academia. Heros may or may not have a superpower called a Quick
 
 ### UML Class Diagram
 [UML pdf](db_design_final_project_UML.pdf)
