@@ -36,11 +36,11 @@ RELATIONSHIP_2
 * INSERT HERE
 
 ### Portable Enumeration(s)
-ENUMERATION (e.g. "roles")
-* INSERT HERE
-* (e.g.1 "FACULTY")
-* (e.g.2 "STUDENT")
-* (e.g.3 "STAFF")
+Affiliation
+* "U.A. HIGH SCHOOL"
+* "SHIKETSU HIGH SCHOOL"
+* "KETSUBUTSU ACADEMY"
+* "HERO ASSOCIATION"
 
 ### User Interface
 * INSERT HERE
