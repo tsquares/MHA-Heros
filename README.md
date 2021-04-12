@@ -9,10 +9,7 @@ CS3200 db design final project
 INSERT HERE
 
 ### UML Class Diagram
-[UML pdf]() <--INSERT LINK
-
-### User Data Model
-INSERT HERE
+[UML pdf](db_design_final_project_UML.pdf)
 
 ### Domain Object Data Models
 DOMAIN_OBJECT_1
