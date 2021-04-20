@@ -2,11 +2,11 @@
 CS3200 db design final project
 
 ## Contributors
-* Jackie Tam - CS3200 33620 Database Design SEC 03 Spring 2021
+* Jacqueline Tam - CS3200 33620 Database Design SEC 03 Spring 2021
 * Tara Tam - CS3200 33620 Database Design SEC 03 Spring 2021
 
 ## Project Description
-Database of users representing Heros from the manga/anime My Hero Academia. Heros may or may not have a superpower called a Quick
+Database of users representing Heros from the manga/anime My Hero Academia. Heros may or may not have a superpower called a Quirk. Quirks can be used by heros to perform a special technique called a SuperMove. Heros may also have quotes.
 
 ### UML Class Diagram
 [UML pdf](db_design_final_project_UML.pdf)
