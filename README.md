@@ -12,22 +12,25 @@ Database of users representing Heros from the manga/anime My Hero Academia. Hero
 [UML pdf](db_design_final_project_UML.pdf)
 
 ### Domain Object Data Models
-DOMAIN_OBJECT_1
-* INSERT HERE
+SuperMove
+* special ability names with description, effective range of the move, and overall usage type (i.e. offensive, defensive, etc.)
 
-DOMAIN_OBJECT_2
-* INSERT HERE
+Quirk
+* a super power that has a name, power type, and description of the power.
+
+Quote
+* a quote from a user that has an upbote count and can be favorited
 
 ### User to Domain Object Relationships
-RELATIONSHIP_1
-* INSERT HERE
+User to SuperMove
+* One User can have many SuperMoves
 
-RELATIONSHIP_2
-* INSERT HERE
+User to Quote
+* One User can have many Quotes
 
 ### Domain Object to Domain Object Relationships
-RELATIONSHIP_1
-* INSERT HERE
+Quirk to Super_Move
+* One Quirk can have many SuperMoves
 
 RELATIONSHIP_2
 * INSERT HERE
@@ -38,8 +41,3 @@ Affiliation
 * "SHIKETSU HIGH SCHOOL"
 * "KETSUBUTSU ACADEMY"
 * "HERO ASSOCIATION"
-
-### User Interface
-* INSERT HERE
-* (e.g.1 Student List - displays a list of all students or the students within a given section)
-* (e.g.2 Student Editor - displays a particular user for editing or allows creating a new student, and navigate to sections for that student)
