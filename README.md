@@ -11,6 +11,10 @@ Database of users representing Heros from the manga/anime My Hero Academia. Hero
 ### UML Class Diagram
 [UML pdf](db_design_final_project_UML.pdf)
 
+### User Data Model
+Hero
+* 
+
 ### Domain Object Data Models
 SuperMove
 * special ability names with description, effective range of the move, and overall usage type (i.e. offensive, defensive, etc.)
