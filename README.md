@@ -16,10 +16,10 @@ SuperMove
 * special ability names with description, effective range of the move, and overall usage type (i.e. offensive, defensive, etc.)
 
 Quirk
-* a super power that has a name, power type, and description of the power.
+* a super power that has a name, power type, and description of the power
 
 Quote
-* a quote from a user that has an upbote count and can be favorited
+* a quote from a user that has an upvote count and can be favorited
 
 ### User to Domain Object Relationships
 User to SuperMove
@@ -28,12 +28,12 @@ User to SuperMove
 User to Quote
 * One User can have many Quotes
 
+User to Quirk
+* Many Users can have many Quirks
+
 ### Domain Object to Domain Object Relationships
 Quirk to Super_Move
 * One Quirk can have many SuperMoves
-
-RELATIONSHIP_2
-* INSERT HERE
 
 ### Portable Enumeration(s)
 Affiliation
