@@ -13,11 +13,11 @@ Database of users representing Heros from the manga/anime My Hero Academia. Hero
 
 ### User Data Model
 Hero
-* 
+* a superhero from the My Hero Academia with a first and last name, username representing their hero alias, passsword, email, date of birth, blood type, and affiliation
 
 ### Domain Object Data Models
 SuperMove
-* special ability names with description, effective range of the move, and overall usage type (i.e. offensive, defensive, etc.)
+* special ability names with description, effective range of the move (i.e. close, medium, long, etc.), and overall usage type (i.e. offensive, defensive, etc.)
 
 Quirk
 * a super power that has a name, power type, and description of the power
